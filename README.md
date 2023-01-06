@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?resize=1588%2C610&ssl=1)
+![MasterHead](https://www.linkpicture.com/q/final-banner.png)
 <h1 align="center">Hey! 👋, I'm Akhil</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
