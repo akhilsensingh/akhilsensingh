@@ -1,6 +1,6 @@
 ![MasterHead](https://www.linkpicture.com/q/final-banner.png)
 <h1 align="center">Hey👋there!</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">I'm a passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 - 🌱 I’m currently learning **React JS**
 
