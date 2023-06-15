@@ -1,13 +1,13 @@
 <h1 align="center">Hey👋there!</h1>
 <h3 align="center">I'm a passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **React and BootSratp**
+- 💬 Talk me about **Web Development**
 
-- 📫 How to reach me **a.sincyphers@gmail.com**
+- 📫 You can mail me **a.sincyphers@gmail.com**
 
-- ⚡ Fun fact **I love funny tech 😁**
+- ⚡ Fun fact **I am in love with this coding circuit 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
