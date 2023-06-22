@@ -1,4 +1,4 @@
-<h1 align="center">Hey!</h1>
+<h1 align="center">Hey! Everyone</h1>
 <h3 align="center">I'm a passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 - 🌱 I’m currently raising in **Web Development**
